@@ -6,7 +6,7 @@ Filename: debs//com.OhSpazz.BlurMe.deb
 Size: 5334
 MD5sum: 98db9c01cd87f9473811689618dea813
 SHA1: 282c5a9020e87e58f47d4441ddba2a5bf2a5300d
-SHA256: 7403E6088B96375193D3ED8DD54AE137B6AB7C8C2AD4AA8A822FD6A2CF0C91BC
+SHA256: 7403e6088b96375193d3ed8dd54ae137b6ab7c8c2ad4aa8a822fd6a2cf0c91bc
 Section: Tweaks
 Description: Blur Photo Album Previews
 Author: OhSpazz <ohspazz@hotmail.com>
