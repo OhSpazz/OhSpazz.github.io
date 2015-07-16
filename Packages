@@ -1,8 +1,8 @@
-Package: com.OhSpazz.BlurMe
+Package: com.OhSpazz.BlurBums
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: OhSpazz <ohspazz@hotmail.com>
-Filename: debs//com.OhSpazz.BlurMe.deb
+Filename: debs//com.OhSpazz.BlurBums.deb
 Size: 5334
 MD5sum: 98db9c01cd87f9473811689618dea813
 SHA1: 282c5a9020e87e58f47d4441ddba2a5bf2a5300d
@@ -11,4 +11,4 @@ Section: Tweaks
 Description: Blur Photo Album Previews
 Author: OhSpazz <ohspazz@hotmail.com>
 Depiction:
-Name: Blur'Bums
+Name: BlurBums
