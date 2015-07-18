@@ -1,12 +1,12 @@
 Package: com.OhSpazz.BlurBums
-Version: 1.0
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: OhSpazz <ohspazz@hotmail.com>
 Filename: debs//com.OhSpazz.BlurBums.deb
 Size: 5292
-MD5sum: 32df59b408cef2967d948afd7a167bce
-SHA1: 111b66aa85b0db9c62680caa5092c123001c5624
-SHA256: cce6d095b6f0444a8278c6912e48b3dcde1ee6be66283689aaa46a744c31ac0d
+MD5sum: bd579f4ebef9b06d5980ff20bd30162b
+SHA1: 8b3be286b018e1224fd9f4e36998364fc8a931a7
+SHA256: 10cbf0ffefe302b3a58c8905166d61d18d5e1153a371955fa697a993b4f54ab6
 Section: Tweaks
 Description: Blur Photo Album Previews with "-" suffix
 Author: OhSpazz <ohspazz@hotmail.com>
